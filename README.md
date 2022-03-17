@@ -1,2 +1,2 @@
-# cut-the-fruit
-cut the fruits
+# cutter
+u have to cut the fruits
